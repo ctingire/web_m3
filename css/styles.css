@@ -1,0 +1,67 @@
+
+#header-nav {
+	background-color: grey;
+	height: 70px;
+	border: 2px solid black;
+}
+
+.nav-container {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+h1 {
+	color: black;
+	margin-top: 0px;
+}
+
+#header-nav a {
+	text-decoration: none;
+}
+
+#header-nav .navbar-toggle {
+	border: 2px solid black;
+}
+
+#nav-list li {
+	font-size: 16px;
+}
+
+#collapsable-nav {
+	margin: -30px 0px 0 0px;
+}
+
+#collapsable-nav a {
+	color: black;
+	border: 2px solid black;
+	padding: 5px 0 5px 0;
+}
+
+#collapsable-nav a:hover {
+	color: white;
+	background-color: grey;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid black;
+}
+
+
+/*** main content styling ***/
+#our-menu {
+	font-size: 26px;
+	margin-top: 10px;
+}
+
+.menu-item {
+	background-color: lightgrey;
+	border: none;
+	margin: 10px 0 10px 0;
+	padding: 0 5px 3px 5px;
+	height: 300px;
+	overflow: hidden;
+}
+
+.menu-item p {
+	font-size: 16px;
+}
